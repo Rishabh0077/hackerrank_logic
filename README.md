@@ -1,1 +1,0 @@
-# hackerrank_logic
